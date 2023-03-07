@@ -47,7 +47,7 @@ name = "usman"
 puts name != "usman"
 puts ! (name == 'Bob')
 
-arr = [1,2,3,4,5]
+arr = [1,2,3,4,5,6]
 puts arr[0] != 1
 
 
